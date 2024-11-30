@@ -26,6 +26,19 @@ The code is designed to replicate the experimental tasks used to study the magno
 
 2. **Install Psychtoolbox-3** by following the instructions on the [official website](http://psychtoolbox.org/download.html).
 
-3. **Clone this repository**:
-   ```bash
-   git clone https://github.com/aryakoureshi/Magnocellular-Parvocellular-Coactivation-Task-in-MATLAB.git
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## References
+
+- Ciavarelli, A., Contemori, G., Battaglini, L., Barollo, M., & Casco, C. *Dyslexia and the Magnocellular-Parvocellular Coactivation Hypothesis*. [Link](https://doi.org/10.1016/j.visres.2020.10.008)
+
+## Contact
+
+For any questions or feedback, please contact [Arya Koureshi] at [arya.kourshi@gmail.com].
+
+## Acknowledgments
+
+- Thanks to the authors of the original paper for their valuable research.
+- This project uses [Psychtoolbox-3](http://psychtoolbox.org/).
