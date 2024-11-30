@@ -1,0 +1,2 @@
+# Magnocellular-Parvocellular-Coactivation-Task-in-MATLAB
+This repository contains a MATLAB implementation using Psychtoolbox of the visual tasks described in the paper "Dyslexia and the Magnocellular-Parvocellular Coactivation Hypothesis" by Ciavarelli et al. The code is designed to replicate the experimental tasks used to study the magnocellular and parvocellular systems in developmental dyslexia.
